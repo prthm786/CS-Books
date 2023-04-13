@@ -1,10 +1,12 @@
 # Books 
 
 ## C++
-[C++ Book1](C++/Lafore4Ed.pdf)
-
-[C++ Book2](C++/Forouzan&Gilberg.pdf)
+- [C++ Book1](C++/Lafore4Ed.pdf)
+- [C++ Book2](C++/Forouzan&Gilberg.pdf)
 
 ## CSA 
-[CSA Book](/CSA/computer-system-architecture-morris-mano-third-edition.pdf)
+- [CSA Book](/CSA/computer-system-architecture-morris-mano-third-edition.pdf)
+
+## Computer Graphics
+- [CG Book](/Computer%20Graphics/Computer%20Graphics%20Compiled%20Book%20-%20TutorialsDuniya.pdf)
 
